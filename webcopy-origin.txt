@@ -1,0 +1,24 @@
+Uri: https://discord.com/assets/504276d1999c40062352.js
+File Name: C:\Downloaded Web Sites\discord.com\assets\504276d1999c40062352.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/532.3577cebc345e16dfdf29.css
+File Name: C:\Downloaded Web Sites\discord.com\assets\532.3577cebc345e16dfdf29.css
+Content Type: text/css
+
+Uri: https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico
+File Name: C:\Downloaded Web Sites\discord.com\assets\847541504914fd33810e70a0ea73177e.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://discord.com/assets/acc764ffdded8cffb65f.js
+File Name: C:\Downloaded Web Sites\discord.com\assets\acc764ffdded8cffb65f.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/bc1d29fa6503a01118c2.js
+File Name: C:\Downloaded Web Sites\discord.com\assets\bc1d29fa6503a01118c2.js
+Content Type: application/javascript
+
+Uri: https://discord.com/developers/applications
+File Name: C:\Downloaded Web Sites\discord.com\developers\applications.html
+Content Type: text/html
+
